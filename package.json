@@ -1,0 +1,15 @@
+{
+  "name": "random_logos_10",
+  "version": "1.0.0",
+  "description": "Module 10 Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Skye Heredia",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "json": "^11.0.0"
+  }
+}
