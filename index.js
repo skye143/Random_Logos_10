@@ -41,6 +41,52 @@ function writeToFile(fileName, answers) {
     });
 }
 
+function promptUser() {
+    inquirer
+        .prompt([
+            {
+                type: 'input',
+                message: ' What text would you like on your logo? (Select 3 characters)',
+                name: 'text',
+                validate: function (input) {
+                    if (input.length <= 3) {
+                        return true;
+                    } else {
+                        return 'Do not more then 3 characters';
+                    }
+                },
+            },
+            // Prompt for text color
+            {
+                type: 'input',
+                message: ' Choose a color. (Enter color keyword OR a hexadecimal number)',
+                name: 'textColor',
+            },
+            // Prompt for shape choice
+            {
+                type: 'list',
+                message: ' What shape do you want to use?',
+                choices: ['Square', 'Triangle', 'Circle'],
+                name: 'shape',
+            },
+            // Prompt for shape color
+            {
+                type: 'input',
+                message: ' Choose shape color (Enter color keyword OR hexadecimal #)',
+                name: 'shapeBackgroundColor',
+            },
+        ])
+        .then((answers) => {
+            fs.writeToFile('logo.svg', answers);
+        })
+}
+
+promptUser();
+
+
+
+
+
 
 
 
