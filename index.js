@@ -59,7 +59,7 @@ function promptUser() {
             // Prompt for text color
             {
                 type: 'input',
-                message: ' Choose a color. (Enter color keyword OR a hexadecimal number)',
+                message: ' Pick a color. (Enter a simple color)',
                 name: 'textColor',
             },
             // Prompt for shape choice
@@ -72,7 +72,7 @@ function promptUser() {
             // Prompt for shape color
             {
                 type: 'input',
-                message: ' Choose shape color (Enter color keyword OR hexadecimal #)',
+                message: ' Choose color for the shape background (Enter a simple color)',
                 name: 'shapeBackgroundColor',
             },
         ])
@@ -81,7 +81,7 @@ function promptUser() {
                 console.log('Must enter no more then 3 characters');
                 promptUser();
             } else {
-                fs.writeToFile('logo.svg', answers);
+                writeToFile('logo.svg', answers);
             }
         })
 }
