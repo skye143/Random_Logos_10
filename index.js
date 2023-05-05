@@ -77,7 +77,12 @@ function promptUser() {
             },
         ])
         .then((answers) => {
-            fs.writeToFile('logo.svg', answers);
+            if (answers.text.length > 3) {
+                console.log('Must enter no more then 3 characters');
+                promptUser();
+            } else {
+                fs.writeToFile('logo.svg', answers);
+            }
         })
 }
 
