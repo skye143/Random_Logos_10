@@ -20,10 +20,6 @@
 
 * [Usage-Information](#usage-information)
 
-* [Contribution-Guidelines](#contribution-guidelines)
-
-* [Test-Instructions](#test-instructions)
-
 * [License](#license)
 
 * [Questions](#questions)
@@ -59,9 +55,50 @@ ADDD LINK HEREREREREERERERERERE!!!!!!!
 
 ## Installation
 
-Clone the repo:
-git clone: 
+1. Go to my github and use my repo:
+https://github.com/skye143/Random_Logos_10.git
 
+2. Clone the repo:
+git clone git@github.com:skye143/Random_Logos_10.git
+
+3. Open in VS Code. If you do not have VS code you must install it.
+
+4. Using the terminal, install npm i. and then download node.js v16.
+
+5. nce node.js v16 is installed, in the terminal, utilize the command npm init -y to initialize and create a package.json where project files will be stored.
+
+6. Next, use the terminal to run the command npm i to install the dependencies associated with this application (developers may need to install inquirer and jest directly from the command line, to do so the command for inquirer will be npm i inquirer@8.2.4 to install v8.2.4 of the inquirer, and npm i jest to install the latest version of jest).
+
+7. To run the application, within the terminal, type the command node index.js.
+
+## Credits
+Google
+
+## Features
+
+This application offers a range of features, including the ability for users to quickly and efficiently generate logos via the use of SVG files. Notably, this process is entirely command line-driven, requiring no front-end tools or user interface.
+
+## Usage Information
+
+To launch the application, navigate to its directory using the command line and install all dependencies by typing "npm i". After that, run the command "node index.js" to start the program. You'll be prompted with a set of questions, and upon answering them correctly, a message will appear on the command line confirming that your logo has been generated. The newly created SVG file will contain your new logo.
+
+## License
+
+NOTICE: This application is covered under the MIT License
+
+
+
+## Questions
+
+To contact me please utilize the provided links below:
+
+[GitHub](https://github.com/skye143)
+
+[LinkedIn](https://www.linkedin.com/in/skye-h-988a7a221)
+
+[Email](mailto:skyeheredia@gmail.com)
+
+[WALKTHROUGH LINK](-------------------jisdvponvsonvposvpo)
 
 
 
