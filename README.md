@@ -98,7 +98,7 @@ To contact me please utilize the provided links below:
 
 [Email](mailto:skyeheredia@gmail.com)
 
-[WALKTHROUGH LINK](-------------------jisdvponvsonvposvpo)
+[WALKTHROUGH LINK-------------](-------------------jisdvponvsonvposvpo)
 
 
 
