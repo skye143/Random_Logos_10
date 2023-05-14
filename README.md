@@ -36,16 +36,6 @@ Potential future enhancements for this application could involve expanding the a
 
 ADDD LINK HEREREREREERERERERERE!!!!!!!
 
-
-
-## Examples Of Generated Logos
-
-<img width="300" alt="logo-1.svg" src="Homework\Random_Logos_10\examples\logo_1.svg" >
-
-<img width="300" alt="logo-2.svg" src="Homework\Random_Logos_10\examples\logo_2.svg" >
-
-<img width="300" alt="logo-3.svg" src="Homework\Random_Logos_10\examples\logo_3.svgg" >
-
 ## Technologies Used
 
 - The project is based on Node.js v16.
