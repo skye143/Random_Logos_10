@@ -34,7 +34,7 @@ Potential future enhancements for this application could involve expanding the a
 
 ## Live Recording Of The Applications Functionality
 
-ADDD LINK HEREREREREERERERERERE!!!!!!!
+ADDD LINK HEREREREREERERERERERE after recording!!!!!!!
 
 ## Technologies Used
 
@@ -75,7 +75,6 @@ To launch the application, navigate to its directory using the command line and 
 ## License
 
 NOTICE: This application is covered under the MIT License
-
 
 
 ## Questions
