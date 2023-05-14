@@ -34,7 +34,7 @@ Potential future enhancements for this application could involve expanding the a
 
 ## Live Recording Of The Applications Functionality
 
-ADDD LINK HEREREREREERERERERERE after recording!!!!!!!
+https://drive.google.com/file/d/1oEDJzTKEvZTVuqfqztulJEBjHaahETdy/view
 
 ## Technologies Used
 
@@ -49,7 +49,7 @@ ADDD LINK HEREREREREERERERERERE after recording!!!!!!!
 https://github.com/skye143/Random_Logos_10.git
 
 2. Clone the repo:
-git clone git@github.com:skye143/Random_Logos_10.git
+git clone 'git@github.com:skye143/Random_Logos_10.git'
 
 3. Open in VS Code. If you do not have VS code you must install it.
 
@@ -87,7 +87,7 @@ To contact me please utilize the provided links below:
 
 [Email](mailto:skyeheredia@gmail.com)
 
-[WALKTHROUGH LINK-------------](-------------------jisdvponvsonvposvpo)
+[Walkthrough Link](https://drive.google.com/file/d/1oEDJzTKEvZTVuqfqztulJEBjHaahETdy/view)
 
 
 
