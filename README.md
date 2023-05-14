@@ -40,11 +40,11 @@ ADDD LINK HEREREREREERERERERERE!!!!!!!
 
 ## Examples Of Generated Logos
 
-<img width="300" alt="logo-1.svg" src="Homework\Random_Logos_10\examples\logo-1.svg" >
+<img width="300" alt="logo-1.svg" src="Homework\Random_Logos_10\examples\logo_1.svg" >
 
-<img width="300" alt="logo-2.svg" src="Homework\Random_Logos_10\examples\logo-2.svg" >
+<img width="300" alt="logo-2.svg" src="Homework\Random_Logos_10\examples\logo_2.svg" >
 
-<img width="300" alt="logo-3.svg" src="Homework\Random_Logos_10\examples\logo-3.svgg" >
+<img width="300" alt="logo-3.svg" src="Homework\Random_Logos_10\examples\logo_3.svgg" >
 
 ## Technologies Used
 
